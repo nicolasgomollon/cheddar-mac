@@ -19,7 +19,7 @@
 //
 // You must set the redirect URI to `cheddar://oauth`
 //
-#error You need to fill in CDIDefines.m with your API credentials
+#error You need to fill in CDMDefines.m with your API credentials
 
 NSString *const kCDMAPIClientID = @"YOUR_API_KEY";
 NSString *const kCDMAPIClientSecret = @"YOUR_API_SECRET";
